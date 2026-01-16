@@ -1,7 +1,2 @@
 .DS_Store
 .Rhistory
-
-.vscode
-.idea
-
-Gemfile.lock
